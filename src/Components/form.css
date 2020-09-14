@@ -1,0 +1,42 @@
+
+.form1{
+  padding: 30px;
+  margin: 5px auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+}
+
+
+/*.f{
+    box-shadow: 0px 0px 5px 5px #000;
+    display: flex;
+    margin: 100px auto;
+    padding: 50px; 
+    border-radius:10px;
+    position: absolute;
+    left:580px;
+    background-color: azure;
+    justify-content: center;
+}*/
+.form2 input{
+  border: 0;
+  border-radius: 1px;
+  background-color: transparent;
+  border-bottom: solid 1px greenyellow;
+  padding-bottom: 4px;
+  display: block;
+  font-weight: bold;
+  margin: 0px auto;
+  margin-bottom: 10px;
+  outline: none;
+}
+
+.form2 button{
+  margin-top: 5px;
+  color:dodgerblue ;
+  border-radius: solid 2px white;
+  /*background-color: transparent;*/
+  padding: 5px;
+}
